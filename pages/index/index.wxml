@@ -1,0 +1,5 @@
+<view class="pny_index">
+     <!-- -->
+     <SearchInput></SearchInput>
+</view>
+  
