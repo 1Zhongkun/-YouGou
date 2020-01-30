@@ -12,12 +12,12 @@
     "pages/login/index",
     "pages/auth/index",
     "pages/pay/index",
-    "pages/card/index"
+    "pages/cart/index"
   ],
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#eb4450",
-    "navigationBarTitleText": "黑马优购",
+    "navigationBarTitleText": "优购",
     "navigationBarTextStyle": "white"
   },
   "tabBar": {
@@ -40,14 +40,14 @@
         "selectedIconPath": "icons/category.png"
       },
       {
-        "pagePath": "pages/card/index",
-        "text": "首页",
+        "pagePath": "pages/cart/index",
+        "text": "购物车",
         "iconPath": "icons/dianshang.png",
         "selectedIconPath": "icons/dianshang-s.png"
       },
       {
         "pagePath": "pages/user/index",
-        "text": "分类",
+        "text": "个人中心",
         "iconPath": "icons/my.png",
         "selectedIconPath": "icons/my-s.png"
       }
